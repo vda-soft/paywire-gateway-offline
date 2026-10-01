@@ -1,2 +1,5 @@
-# paywire-gateway-offline
-Offline gateway integration for PayWire. 
+# PayWire PayU gateway
+
+Gateway for PayWire payment processing.
+
+See [PayWire repo](https://github.com/vda-soft/PayWire) for instructions.
